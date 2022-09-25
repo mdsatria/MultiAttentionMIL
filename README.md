@@ -1,6 +1,6 @@
 # Multi-Scale Attention-based Multiple Instance Learning for Classification of Multi-Gigapixel Histology Images
 
-Model implementation of paper [[arXiv]](https://arxiv.org/abs/2209.03041) by Made Satria Wibawa, Kowk-Wai Lo, Lawrence Young, Nasir Rajpoot
+Model implementation of paper [[arXiv]](https://arxiv.org/abs/2209.03041) by Made Satria Wibawa, Kwok-Wai Lo, Lawrence Young, Nasir Rajpoot
 
 This is a supplementary code and notebook for training and testing the model in MNIST dataset from **Multi-Scale Attention-based Multiple Instance Learning for Classification of Multi-Gigapixel Histology Images** paper.
 
