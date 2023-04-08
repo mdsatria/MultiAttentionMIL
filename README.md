@@ -4,7 +4,7 @@ Model implementation of paper [[arXiv]](https://arxiv.org/abs/2209.03041) by Mad
 
 This is a supplementary code and notebook for training and testing the model in MNIST dataset from **Multi-Scale Attention-based Multiple Instance Learning for Classification of Multi-Gigapixel Histology Images** paper.
 
-Will be presented in AI-enabled Medical Image Analysis (AIMIA) workshop at ECCV 2022.
+Presented in AI-enabled Medical Image Analysis (AIMIA) workshop at ECCV 2022.
 
 
 ```
